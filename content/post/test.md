@@ -1,7 +1,6 @@
 ---
 title: "Test"
 date: 2020-02-14T19:06:19+09:00
-draft: true
 ---
 
 # hello hugo
